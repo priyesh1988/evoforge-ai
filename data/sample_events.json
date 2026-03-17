@@ -1,0 +1,12 @@
+{
+  "events": [
+    {"user_id": "u1", "segment": "new_user", "screen": "settings", "event_type": "submit", "feature": "configuration", "duration_seconds": 440, "success": false, "frustration_score": 0.85, "support_ticket": true},
+    {"user_id": "u2", "segment": "new_user", "screen": "settings", "event_type": "submit", "feature": "configuration", "duration_seconds": 410, "success": false, "frustration_score": 0.80, "support_ticket": true},
+    {"user_id": "u3", "segment": "admin", "screen": "settings", "event_type": "submit", "feature": "configuration", "duration_seconds": 360, "success": true, "frustration_score": 0.42, "support_ticket": false},
+    {"user_id": "u4", "segment": "new_user", "screen": "settings", "event_type": "abandon", "feature": "configuration", "duration_seconds": 230, "success": false, "frustration_score": 0.91, "support_ticket": true},
+    {"user_id": "u5", "segment": "general", "screen": "onboarding", "event_type": "complete", "feature": "guided_start", "duration_seconds": 120, "success": true, "frustration_score": 0.10, "support_ticket": false},
+    {"user_id": "u6", "segment": "general", "screen": "dashboard", "event_type": "click", "feature": "analytics_export", "duration_seconds": 75, "success": false, "frustration_score": 0.55, "support_ticket": true},
+    {"user_id": "u7", "segment": "general", "screen": "dashboard", "event_type": "click", "feature": "analytics_export", "duration_seconds": 80, "success": false, "frustration_score": 0.52, "support_ticket": false},
+    {"user_id": "u8", "segment": "general", "screen": "dashboard", "event_type": "click", "feature": "analytics_export", "duration_seconds": 82, "success": true, "frustration_score": 0.25, "support_ticket": false}
+  ]
+}

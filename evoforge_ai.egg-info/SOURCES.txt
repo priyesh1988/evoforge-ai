@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+app/__init__.py
+app/main.py
+app/models.py
+app/api/__init__.py
+app/api/routes.py
+app/services/ingest.py
+app/services/learner.py
+app/services/proposals.py
+app/services/simulator.py
+evoforge_ai.egg-info/PKG-INFO
+evoforge_ai.egg-info/SOURCES.txt
+evoforge_ai.egg-info/dependency_links.txt
+evoforge_ai.egg-info/requires.txt
+evoforge_ai.egg-info/top_level.txt
+tests/test_api.py
