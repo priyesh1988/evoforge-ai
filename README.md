@@ -1,6 +1,6 @@
 # 🚀 EvoForge AI
 
-**AI-powered software enhancement orchestration** that learns from real user behavior, recommends the next best product improvements, simulates future versions, and shows likely user impact **before engineering commits to build**.
+**AI-powered product enhancement orchestration** that learns from real user behavior, recommends the next best product improvements, simulates future versions, and shows likely user impact **before engineering commits to build**.
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/python-3.11%2B-blue">
@@ -8,6 +8,8 @@
   <img alt="License" src="https://img.shields.io/badge/license-All%20Rights%20Reserved-black">
   <img alt="Status" src="https://img.shields.io/badge/status-MVP%20with%20enterprise%20blueprint-success">
 </p>
+
+**behavior ingestion → learning → enhancement proposals → future impact simulation → before/after decision support**.
 
 ---
 
@@ -321,28 +323,6 @@ EvoForge AI helps teams:
 3. Simulator warns beginner uplift but admin regression risk.
 4. Confidence falls due to segment imbalance.
 5. Team rejects proposal pending broader sample data.
-
----
-
-## 🔐 Enterprise expansion ideas
-
-- RBAC for proposal approval
-- Jira / Linear integration
-- feature-flag rollouts
-- experimentation hooks
-- observability export (Prometheus / OpenTelemetry)
-- vector memory for feedback themes
-- LLM provider integration for richer proposal narratives
-- multi-tenant SaaS support
-
----
-
-## 📝 Notes
-
-This repository is an MVP blueprint that demonstrates the end-to-end pattern:
-**behavior ingestion → learning → enhancement proposals → future impact simulation → before/after decision support**.
-
-It is intentionally designed to be easy to extend into an enterprise-grade platform.
 
 ---
 
