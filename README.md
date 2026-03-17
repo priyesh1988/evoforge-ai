@@ -2,14 +2,14 @@
 
 **AI-powered product enhancement orchestration** that learns from real user behavior, recommends the next best product improvements, simulates future versions, and shows likely user impact **before engineering commits to build**.
 
+**behavior ingestion → learning → enhancement proposals → future impact simulation → before/after decision support**.
+
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/python-3.11%2B-blue">
   <img alt="FastAPI" src="https://img.shields.io/badge/api-FastAPI-009688">
   <img alt="License" src="https://img.shields.io/badge/license-All%20Rights%20Reserved-black">
   <img alt="Status" src="https://img.shields.io/badge/status-MVP%20with%20enterprise%20blueprint-success">
 </p>
-
-**behavior ingestion → learning → enhancement proposals → future impact simulation → before/after decision support**.
 
 ---
 
