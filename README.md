@@ -179,7 +179,7 @@ Lets product, UX, and engineering compare likely benefits vs regression risk.
 
 ---
 
-## ⚠️ Failure cases the README explicitly supports
+## ⚠️ Failure cases
 
 ### Failure case 1: weak signal quality
 **Problem:** sparse or inconsistent product telemetry.
